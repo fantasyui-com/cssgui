@@ -1,8 +1,8 @@
 {
 	"version": 3,
-	"file": "bootstrap-reboot.css",
+	"file": "cssgui-reboot.css",
 	"sources": [
-		"../../src/bootstrap-reboot.scss",
+		"../../src/cssgui-reboot.scss",
 		"../../src/_functions.scss",
 		"../../src/_variables.scss",
 		"../../src/_mixins.scss",

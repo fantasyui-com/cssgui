@@ -1,8 +1,8 @@
 {
 	"version": 3,
-	"file": "bootstrap-grid.css",
+	"file": "cssgui-grid.css",
 	"sources": [
-		"../../src/bootstrap-grid.scss",
+		"../../src/cssgui-grid.scss",
 		"../../src/_functions.scss",
 		"../../src/_variables.scss",
 		"../../src/mixins/_breakpoints.scss",
