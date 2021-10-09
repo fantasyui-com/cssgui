@@ -1,6 +1,6 @@
 {
   "name": "cssgui",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "Simple minimalist CSS GUI framework and boilerplate based on bootstrap grid.",
   "main": "index.js",
   "scripts": {
